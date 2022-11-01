@@ -1,0 +1,12 @@
+
+
+#about{
+  min-height: 200px;
+  position: relative;
+  background-image: url("images/about.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  color:#fff;
+  background-attachment: fixed;
+}
